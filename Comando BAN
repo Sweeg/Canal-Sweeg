@@ -1,0 +1,11 @@
+$nomention
+$allowMention
+$onlyAdmin[🔴 Você não tem permissão para usar este comando!]
+$title[**<a:ban:741136971182899382> NOVO BAN!**]
+$description[**
+👥Usuário: $mentioned[>]
+⛏Punido por: $username
+📋Motivo: $noMentionMessage
+**]
+$ban
+$argsCheck[>1;:x: Você não mencionou ninguém para ser banido!]     
