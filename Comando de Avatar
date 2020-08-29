@@ -1,0 +1,4 @@
+$title[Avatar]
+$color[#ff0000]
+$description[ [Download]($userAvatar[$replaceText[$replaceText[*$mentioned[<]*;**;$authorID;1];*$mentioned[<]*;$mentioned[<];1]])]
+$image[$userAvatar[$replaceText[$replaceText[*$mentioned[<]*;**;$authorID;1];*$mentioned[<]*;$mentioned[<];1]]?size=2048]
